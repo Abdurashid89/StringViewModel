@@ -1,0 +1,3 @@
+include ':StringViewModel'
+include ':app'
+rootProject.name = "ViewModelLibrary"
